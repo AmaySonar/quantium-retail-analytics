@@ -1,0 +1,10 @@
+trial_store,control_store,metric,trial_mean,control_mean_scaled,uplift_pct,scale_factor,t_statistic,p_value,significant
+77,233,total_sales,241.6,189.06,27.79,1.0398,1.9141,0.1281,No
+77,233,num_customers,44.33,35.42,25.16,1.0217,1.8051,0.1454,No
+77,233,avg_txns_per_customer,1.04,1.06,-1.82,1.0249,-0.5274,0.6258,No
+86,155,total_sales,874.07,783.54,11.55,0.972,1.9183,0.1275,No
+86,155,num_customers,104.0,92.28,12.71,1.003,4.3287,0.0124,Yes
+86,155,avg_txns_per_customer,1.21,1.21,-0.2,0.9805,-0.0926,0.9307,No
+88,91,total_sales,1374.53,1265.84,8.59,1.5211,2.2652,0.0862,No
+88,91,num_customers,124.67,116.34,7.16,1.4017,1.3797,0.2398,No
+88,91,avg_txns_per_customer,1.25,1.24,1.17,1.065,0.6521,0.5499,No
